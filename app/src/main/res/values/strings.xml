@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">POI</string>
+    <string name="la_catedral_de_notre_dame">La Catedral de Notre Dame</string>
+    <string name="copyright_binary_team">Copyright@Binary-Team</string>
+    <string name="es_una_catedral_de_culto_cat_lico_sede_de_la_archidi_cesis_de_par_s_la_capital_de_francia_dedicada_a_la_virgen_mar_a_madre_de_jesucristo_se_sit_a_en_la_peque_a_isla_de_la_cit_rodeada_por_las_aguas_del_r_o_sena_es_uno_de_los_monumentos_m_s_populares_de_la_capital_francesa">Es una catedral de culto católico, sede de la archidiócesis de París, la capital de Francia. Dedicada a la Virgen María, madre de Jesucristo, se sitúa en la pequeña isla de la Cité, rodeada por las aguas del río Sena. Es uno de los monumentos más populares de la capital francesa.</string>
+
+    <string name="temperatura">11°C-52°F</string>
+    <string name="informacion">Notre Dame de París es la catedral católica de la ciudad situada exactamente en la popular zona de la Isla de la Cité. Este edificio es uno de los monumentos góticos más importantes de París, y es que sus esculturas y vidrieras contrastan con detalles de un antiguo estilo románico</string>
+    <string name="descripcion">Catedral de Notre Dame, 6 Parvis Notre-Dame - place Jean-Paul-II, Paris, Francia</string>
+    <string name="plano">plano</string>
+    <string name="image_catedral">image_catedral</string>
+    <string name="location">location</string>
+    <string name="menu">menu</string>
+    <string name="Ver">Ver</string>
+    <string name="referencia">referencia</string>
+    <string name="arco_del_triunfo">Arco del Triunfo</string>
+    <string name="Paris_title">París</string>
+    <string name="init">image_init</string>
+    <string name="parismapa">mapa</string>
+    <string name="maparis">TODO</string>
+
+</resources>
