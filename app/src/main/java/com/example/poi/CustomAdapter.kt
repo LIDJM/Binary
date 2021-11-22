@@ -10,11 +10,11 @@ import androidx.recyclerview.widget.RecyclerView
 class CustomAdapter: RecyclerView.Adapter<CustomAdapter.ViewHolder>() {
 
     val images = arrayOf(
+        R.drawable.arco,
         R.drawable.catedral,
-        R.drawable.catedral,
-        R.drawable.catedral,
-        R.drawable.catedral,
-        R.drawable.catedral,
+        R.drawable.museo,
+        R.drawable.palacio,
+        R.drawable.torre,
     )
 
     val titles = arrayOf(
